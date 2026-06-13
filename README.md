@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://homelens-price-prediction.onrender.com)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-orange?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.0.3-black?style=for-the-badge&logo=flask&logoColor=white)
@@ -10,7 +11,7 @@
 
 **An end-to-end machine learning web application that predicts residential property prices across 6 major Indian cities using XGBoost regression.**
 
-[🚀 Live Demo](#-quick-start) · [📊 Model Performance](#-model-performance) · [🛠 Tech Stack](#-tech-stack) · [📁 Project Structure](#-project-structure)
+[🚀 Live Demo](https://homelens-price-prediction.onrender.com) · [📊 Model Performance](#-model-performance) · [🛠 Tech Stack](#-tech-stack) · [📁 Project Structure](#-project-structure)
 
 </div>
 

@@ -145,7 +145,7 @@ HOUSE_PRICE_PREDICTION/
 
 ```bash
 # Option A: Clone
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/ammujyothika89/Home_Price_Prediction.git
 cd house-price-prediction
 
 # Option B: Download ZIP and extract
@@ -271,11 +271,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📬 Contact
 
-**Your Name**  
-📧 yourname@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)  
-📍 Andhra Pradesh, India
+**JYOTHIKA KOTHAPALLI**  
+📧 kothapallijyothika2006@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/jyothika-kothapalli-482596323?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+🐙 [GitHub](https://github.com/ammujyothika89)  
+📍 Rajamahendravaram, India
 
 ---
 

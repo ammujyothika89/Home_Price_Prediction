@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import joblib, json, numpy as np
@@ -51,5 +52,5 @@ def predict():
         return jsonify({"error": str(e)}), 400
 
 if __name__ == "__main__":
-    print("\n🚀 HomeLens AI  →  http://127.0.0.1:5000\n")
-    app.run(debug=False, port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=False, host="0.0.0.0", port=port)
